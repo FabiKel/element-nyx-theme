@@ -9,13 +9,13 @@
         "alert": "#d9143e",
 
         "sidebar-color": "#120821",
-        "roomlist-background-color": "#2f3136",
+        "roomlist-background-color": "#1f1236",
         "roomlist-text-color": "#dcddde",
         "roomlist-text-secondary-color": "#8e9297",
         "roomlist-highlights-color": "#6444a6",
         "roomlist-separator-color": "#6444a6",
 
-        "timeline-background-color": "#261147",
+        "timeline-background-color": "#201237",
         "timeline-text-color": "#dcddde",
         "secondary-content": "#dcddde",
         "tertiary-content": "#dcddde",
