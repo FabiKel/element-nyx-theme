@@ -1,0 +1,32 @@
+{
+    "name": "Element Nyx",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#854aff",
+        "accent": "#854aff",
+        "primary-color": "#6a3bcc",
+        "warning-color": "#d9143e",
+        "alert": "#d9143e",
+
+        "sidebar-color": "#120821",
+        "roomlist-background-color": "#2f3136",
+        "roomlist-text-color": "#dcddde",
+        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-highlights-color": "#6444a6",
+        "roomlist-separator-color": "#6444a6",
+
+        "timeline-background-color": "#261147",
+        "timeline-text-color": "#dcddde",
+        "secondary-content": "#dcddde",
+        "tertiary-content": "#dcddde",
+        "timeline-text-secondary-color": "#b9bbbe",
+        "timeline-highlights-color": "#0c0414",
+
+        "reaction-row-button-selected-bg-color": "#854aff",
+        "menu-selected-color": "#854aff",
+        "focus-bg-color": "#854aff",
+        "room-highlight-color": "#854aff",
+        "other-user-pill-bg-color": "#854aff",
+        "togglesw-off-color": "#746a7a"
+    }
+}
