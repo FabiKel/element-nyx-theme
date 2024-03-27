@@ -27,6 +27,7 @@
         "focus-bg-color": "#854aff",
         "room-highlight-color": "#854aff",
         "other-user-pill-bg-color": "#854aff",
-        "togglesw-off-color": "#746a7a"
+        "togglesw-off-color": "#746a7a",
+        "panels": "#854aff"
     }
 }
